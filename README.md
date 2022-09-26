@@ -26,7 +26,8 @@ https://www.linkedin.com/feed/update/urn:li:activity:6978631166589308930/
 Godspeed💯 🤍
 
 <h3>Me and My team mate Started Our Project as Soon as possible because my mate practical exam was there After the Weekend that not known as our weekend its known as more work for us</h3>
-# The Things we Used to Make it:<br>
+
+# The Things we Used to Make it:
 <h4>1.HTML</h4>
 <h4>2.CSS</h4>
 <h4>3.JavaScript</h4>
