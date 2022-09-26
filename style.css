@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background: #16222A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #3A6073, #16222A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #3A6073, #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+
+}
+header {
+    display: grid;
+    background: #1c2b3591;
+    color: white;
+    padding-left: 4rem;
+
+}
+.navbar{
+
+    display: grid;
+    grid-template-areas:
+        "nav "
+        "footer-container";
+    padding: 5px 0px 5px 4rem;
+}
+.nav{
+    grid-area : nav;
+    width: 60px;
+}
+.footer-container{
+    grid-area:footer-container;
+}
+h1{
+    text-align:center;
+}
+.area{
+    margin: 2rem 0;
+}
+/* shot notes css  */
+#notes{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.btn{
+    border-radius: 5px;
+    background: #e32c2c;
+    padding: 12px;
+    color: white;
+    border:none;
+}
+.card-body{
+    background:#274554;
+    margin-top:1rem;
+    padding: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+}
+.card-body:hover{
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    transform: translateX(-8px);
+}
+h3{
+    color: white;
+    padding: 0 10px;
+    font-size: 24px;
+}
+.card-title{
+    font-size:22px;
+    font-weight: bold;
+
+}
+
+p{
+
+    opacity: 0.7;
+    padding: 11px 0px;
+    color:#fff;
+    font-size: 18px;
+}
+.container{
+    margin: 2rem 4rem;
+}
+#addtxt{
+    height: 152px;
+    width: 100%;
+
+}
+.button-30 {
+    width: 105px;
+    align-items: center;
+    appearance: none;
+    background-color: #FCFCFD;
+    border-radius: 4px;
+    border-width: 0;
+    box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #36395A;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 18px;
+}
+
+.button-30:focus {
+    box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+}
+
+.button-30:hover {
+    box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+    transform: translateY(-2px);
+}
+
+.button-30:active {
+    box-shadow: #D6D6E7 0 3px 7px inset;
+    transform: translateY(2px);
+}
+#addtxt{
+    margin-top:5px;
+    margin-bottom:5px;
+    border:2px solid #958e8e;
+    border-radius: 8px;
+    padding:8px;
+}
+/* footer{
+
+  background:#ffc0cb;
+}
+.footer-container{
+  max-width: 1300px;
+  margin: auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+.logo{
+  width: 180px;
+}
+
+.social{
+      margin-right: auto;
+    place-content: center;
+    margin-left: auto;
+}
+.social-media{
+    margin: 31px 80px;
+}
+.social-media a>img{
+  color: #001a21;
+  margin-right: 25px;
+  height: 32px;
+  width: 2rem;
+  text-decoration: none;
+  transition: .3s linear;
+}
+
+.social-media a:hover{
+  color: #fc5c65;
+}
+  */
+
+.shownote{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-px {
+    height: 1px;
+}
+
+.flex-1 {
+    flex: 1 1 0%;
+}
+
+.bg-gray-400 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(161,161,170,var(--tw-bg-opacity));
+}

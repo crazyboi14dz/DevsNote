@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./favicon.svg">
+    <link rel="stylesheet" href="style.css">
+    <title>Magic notes</title>
+</head>
+<!-- GO and Eat first then Work -->
+
+<body>
+<header class="navbar">
+    <div class="nav">
+        <h1>DevsNote</h1>
+    </div>
+</header>
+<div class="container">
+    <h2>Welcome To Magic Notes</h2>
+    <div class="area">
+        <div class="">
+            <!--         <h5 class="">Add the note</h5> -->
+            <div class="">
+                <label for="addtxt">Add the Note :</label>
+                <textarea id="addtxt" placeholder="Enter you note" style="height: 100px"></textarea>
+            </div>
+            <button class="button-30"><a id="addbtn">Add note</a></button>
+            <!-- The button used to copy the text -->
+            <button class="button-30" role="button" id="copytextbtn" onclick="myFunction()">Copy text</button>
+            <button class="button-30" role="button" onclick="underline()">Underline</button>
+            <button class="button-30" role="button" onclick="boldtext()">Text bold</button>
+        </div>
+    </div>
+    <div class="shownote">
+        <span class="flex-1 h-px bg-gray-400"></span>
+        <h3>Your Notes</h3>
+        <span class="flex-1 h-px bg-gray-400"></span>
+    </div>
+    <div id="notes"></div>
+</div>
+
+
+
+<script src="script.js"></script>
+</body>
+
+</html>
