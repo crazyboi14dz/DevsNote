@@ -1,7 +1,5 @@
 # DevsNote
 Its  Devsnest Hackathon Project.
-# DevsNote
-Its  Devsnest Hackathon Project.
 
 # In Our Drop Zone a message dropped camed from Kshitiz Sir(13:04 PM):
 Hello all. Hope you are doing great! Some news for the coming weeks:
@@ -29,9 +27,9 @@ Godspeed💯 🤍
 
 <h3>Me and My team mate Started Our Project as Soon as possible because my mate practical exam was there After the Weekend that not known as our weekend its known as more work for us</h3>
 # The Things we Used to Make it:<br>
-1.HTML<br>
-2.CSS<br>
-3.JavaScript<br>
+<h4>1.HTML</h4><br>
+<h4>2.CSS</h4><br>
+<h4>3.JavaScript</h4><br>
 
 # Have Preview of the Project...😶‍🌫️
 ![Screenshot 2022-09-26 18 38 59](https://user-images.githubusercontent.com/91685196/192285051-8e9f286a-5b3a-4eac-8f7a-8b786aec6bc7.png)
