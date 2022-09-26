@@ -27,9 +27,9 @@ Godspeed💯 🤍
 
 <h3>Me and My team mate Started Our Project as Soon as possible because my mate practical exam was there After the Weekend that not known as our weekend its known as more work for us</h3>
 # The Things we Used to Make it:<br>
-<h4>1.HTML</h4><br>
-<h4>2.CSS</h4><br>
-<h4>3.JavaScript</h4><br>
+<h4>1.HTML</h4>
+<h4>2.CSS</h4>
+<h4>3.JavaScript</h4>
 
 # Have Preview of the Project...😶‍🌫️
 ![Screenshot 2022-09-26 18 38 59](https://user-images.githubusercontent.com/91685196/192285051-8e9f286a-5b3a-4eac-8f7a-8b786aec6bc7.png)
