@@ -1,7 +1,7 @@
 # DevsNote
 Its  Devsnest Hackathon Project.
 
-# In Our Drop Zone a message dropped camed from Kshitiz Sir(13:04 PM):
+# In Our Drop Zone a message drop came from Kshitiz Sir(13:04 PM):
 Hello all. Hope you are doing great! Some news for the coming weeks:
 
 1. Hackathons! Starting this weekend! All the information about it will be given to you tomorrow! Hope you are ready. you would need to be in a group of max 4 people to participate (not necessarily your teammates). Start finding your partners for all the late-night VC dev work you guys will be doing.💯
