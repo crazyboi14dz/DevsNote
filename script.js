@@ -101,14 +101,14 @@ function boldtext() {
         var element = document.getElementById("addtxt");
         element.style.fontWeight = 'bold';
         console.log("text bold")
-        bol == false;
+        bol = false;
     }
     else {
         console.log("notmal")
         var element = document.getElementById("addtxt");
         element.style.fontWeight = 'normal';
         console.log("text light")
-        bol == false;
+        bol = true;
     }
 }
 
